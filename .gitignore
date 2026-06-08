@@ -1,0 +1,17 @@
+# Search results
+search_results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
